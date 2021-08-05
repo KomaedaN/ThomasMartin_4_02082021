@@ -671,7 +671,7 @@ a {
 }
 
 p {
-    font-size: 11px;
+    font-size: 15px;
 }
 
 .tight-width-whitespace {
@@ -714,6 +714,7 @@ h3 {
     max-width: 800px;
     margin: auto auto auto auto;
     box-shadow: 0px 0px 0px #000000;
+    margin-bottom: 6rem;
 }
 
 h1 {
@@ -1041,4 +1042,24 @@ h4 {
 
 .header2 {
     max-width: 100%;
+}
+
+.container__title{
+    text-align: center;
+    margin: auto;
+}
+
+@media (min-width: 767px){
+    .container__title{
+        width: 70%;
+    }
+}
+
+.ital{
+    font-style: italic;
+}
+
+.partenaire{
+    width: 58%;
+    margin: auto;
 }
