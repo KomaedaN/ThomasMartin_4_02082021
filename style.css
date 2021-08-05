@@ -1053,6 +1053,9 @@ h4 {
     .container__title{
         width: 70%;
     }
+    .partenaire{
+        width: 58%;
+    }
 }
 
 .ital{
@@ -1060,6 +1063,5 @@ h4 {
 }
 
 .partenaire{
-    width: 58%;
     margin: auto;
 }
