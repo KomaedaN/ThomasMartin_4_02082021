@@ -1065,3 +1065,8 @@ h4 {
 .partenaire{
     margin: auto;
 }
+
+.navbar-brand img{
+    width: 100%;
+    height: 5rem;
+}
