@@ -150,7 +150,7 @@ a:hover {
 .d-bloc h5 a:hover,
 .d-bloc h6 a:hover,
 .d-bloc p a:hover {
-    color: rgba(255, 255, 255, 1);
+    color: #52104F;
 }
 
 .d-bloc .navbar-toggle .icon-bar {
@@ -278,7 +278,7 @@ a:hover {
 }
 
 #bloc-1-hero h1 {
-    font-size: 32px;
+    font-size: 45px;
 }
 
 .navbar {
@@ -653,7 +653,7 @@ a {
 }
 
 .hero-bloc-text {
-    font-size: 38px;
+    font-size: 45px;
 }
 
 .hero-bloc-text-sub {
@@ -778,7 +778,7 @@ h4 {
 
 .btn-atomic-tangerine:hover {
     background: #c27956!important;
-    color: #FFFFFF!important;
+    color: #52104F!important;
 }
 
 .ltc-white {
@@ -960,10 +960,6 @@ h4 {
         float: left;
         margin-left: 10px;
     }
-    .bloc {
-        padding-left: 0;
-        padding-right: 0;
-    }
     .bloc-xxl,
     .bloc-xl,
     .bloc-lg {
@@ -1026,6 +1022,9 @@ h4 {
     .bloc-mob-center-text {
         text-align: center;
     }
+    .black-background {
+        padding: 40px 0px;
+    }
 }
 
 .col-sm-12 {
@@ -1078,4 +1077,16 @@ h4 {
 }
 .color__black{
     color: black!important;
+}
+
+.contact__size{
+    font-size: 20px;
+}
+
+.size__white{
+    font-size: 2.2rem;
+}
+
+.size__collab{
+    font-size: 18px;
 }
