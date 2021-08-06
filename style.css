@@ -1058,9 +1058,6 @@ h4 {
     .partenaire{
         width: 58%;
     }
-    .navbar-brand img{
-        width: 20rem;
-    }
 }
 
 .ital{
@@ -1072,7 +1069,7 @@ h4 {
 }
 
 .navbar-brand img{
-    width: 100%;
+    width: 25rem;
     height: 5rem;
 }
 
